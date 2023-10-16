@@ -95,7 +95,8 @@ Ela oferece os seguintes atributos:
 
 """
 
-class Carro():
+
+class Carro:
     def __init__(self, direcao, motor):
         self.direcao = direcao
         self.motor = motor
